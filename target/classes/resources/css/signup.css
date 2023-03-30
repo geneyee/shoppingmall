@@ -1,0 +1,15 @@
+body{background: rgba(249,249,249);}
+.wrap{width:100%;}
+.header{background: rgba(249,249,249);}
+.contents1{height: 1470px;background: rgba(249,249,249);}
+.footer{background: rgba(249,249,249);border-top: 1px solid black;}
+.container { width: 1200px;margin:0 auto; height: inherit;}
+
+#sign-title{border: 1px solid rgba(43,47,58);width: 100%;height: 50px;color: rgba(43,47,58);background: rgba(249,249,249);font-size: 30px;text-align: left;margin-top: 20px;padding-left: 10px;padding-bottom: 35px;font-weight: bold;}
+#information{border: 1px solid rgba(43,47,58);width: 100%;height: 500px;margin-bottom: 400px;}
+#info-title{float: left;width: 200px;height: 60px;font-size: 30px;padding: 3% 1% 0% 3%;}
+#information2{border: 1px solid rgba(43,47,58);width: 100%;height: 900px;margin:59.5px 2px 0px 0px;}
+#info-title2{float: left;width: 220px;height: 60px;font-size: 30px;padding: 3% 1% 0% 3%;}
+#info-table{margin:30px 0px 0px 350px;}
+#info-table tr td input{font-size: 13px;padding: 7px 0px; margin: 8px}
+/*************������*************/

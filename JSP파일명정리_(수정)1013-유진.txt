@@ -1,0 +1,7 @@
+##### JSP 파일명 정리 #####(수정하면 메모장 파일명에 수정날짜와 작성자명 적어주세요!)
+
+- 메인화면 = main.jsp
+- 회원가입 = singUpForm.jsp
+- 로그인 = loginForm.jsp
+- 마이페이지 = mypage.jsp
+
